@@ -1,6 +1,6 @@
 # How to unhide rows in excel
 
-[![how to unhide rows in excel](redd.png)](https://github.com/webwikie/how.to.unhide.rows.in.excel)
+[![how to unhide rows in excel](redd.png)](https://icncomputer.com/how-to-unhide-row-in-excel/)
 
 As is the case with nearly all common tasks in Excel, there is more than one way to hide rows: by using the ribbon button, right-click menu, and keyboard shortcut.
 
